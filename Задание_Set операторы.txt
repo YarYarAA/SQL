@@ -1,0 +1,4 @@
+1)Вывести числа 1,2,3 в 3 строки.
+2)Вывести все EMPLOYEE_ID из таблиц EMPLOYEES и JOB_HISTORY, с сортировкой по убыванию.
+3)Вывести все EMPLOYEE_ID, которые есть в обеих таблицах EMPLOYEES и JOB_HISTORY.
+4)Вывести все EMPLOYEE_ID, которые есть в таблице EMPLOYEES, но нет в JOB_HISTORY.
